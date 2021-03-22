@@ -1,0 +1,11 @@
+{
+  "name": "Blogs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chunxi-0122/Blogs.git",
+  "author": "春风十里 <wangchunxi@finewe.com.cn>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
