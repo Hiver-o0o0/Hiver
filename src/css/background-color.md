@@ -1,0 +1,91 @@
+# 背景颜色
+
+
+| Class<img width=200/> | Properties<img width=200/> |  |
+| :------ | :------ | :------ |
+| .bg-black | background-color: #000000; | <Color color="#000000"></Color> |
+| .bg-white | background-color: #FFFFFF; | <Color color="#ffffff"></Color> |
+| .bg-gray-50 | background-color: #F9FAFB; | <Color color="#F9FAFB"></Color> |
+| .bg-gray-100 | background-color: rgba(243, 244, 246); | <Color color="rgba(243, 244, 246)"></Color> |
+| .bg-gray-200 | background-color: rgba(229, 231, 235); | <Color color="rgba(229, 231, 235)"></Color> |
+| .bg-gray-300 | background-color: rgba(209, 213, 219); | <Color color="rgba(209, 213, 219)"></Color> |
+| .bg-gray-400 | background-color: rgba(156, 163, 175); | <Color color="rgba(156, 163, 175)"></Color> |
+| .bg-gray-500 | background-color: rgba(107, 114, 128); | <Color color="rgba(107, 114, 128)"></Color> |
+| .bg-gray-600 | background-color: rgba(75, 85, 99); | <Color color="rgba(75, 85, 99)"></Color> |
+| .bg-gray-700 | background-color: rgba(55, 65, 81); | <Color color="rgba(55, 65, 81)"></Color> |
+| .bg-gray-800 | background-color: rgba(31, 41, 55); | <Color color="rgba(31, 41, 55)"></Color> |
+| .bg-gray-900 | background-color: rgba(17, 24, 39); | <Color color="rgba(17, 24, 39)"></Color> |
+| .bg-red-50 | background-color: rgba(254, 242, 242); | <Color color="rgba(254, 242, 242)"></Color> |
+| .bg-red-100 | background-color: rgba(254, 226, 226); | <Color color="rgba(254, 226, 226)"></Color> |
+| .bg-red-200 | background-color: rgba(254, 202, 202); | <Color color="rgba(254, 202, 202)"></Color> |
+| .bg-red-300 | background-color: rgba(252, 165, 165); | <Color color="rgba(252, 165, 165)"></Color> |
+| .bg-red-400 | background-color: rgba(248, 113, 113); | <Color color="rgba(248, 113, 113)"></Color> |
+| .bg-red-500 | background-color: rgba(239, 68, 68); | <Color color="rgba(239, 68, 68)"></Color> |
+| .bg-red-600 | background-color: rgba(220, 38, 38); | <Color color="rgba(220, 38, 38)"></Color> |
+| .bg-red-700 | background-color: rgba(185, 28, 28); | <Color color="rgba(185, 28, 28)"></Color> |
+| .bg-red-800 | background-color: rgba(153, 27, 27); | <Color color="rgba(153, 27, 27)"></Color> |
+| .bg-red-900 | background-color: rgba(127, 29, 29); | <Color color="rgba(127, 29, 29)"></Color> |
+| .bg-yellow-50 | background-color: rgba(255, 251, 235); | <Color color="rgba(255, 251, 235)"></Color> |
+| .bg-yellow-100 | background-color: rgba(254, 243, 199); | <Color color="rgba(254, 243, 199)"></Color> |
+| .bg-yellow-200 | background-color: rgba(253, 230, 138); | <Color color="rgba(253, 230, 138)"></Color> |
+| .bg-yellow-300 | background-color: rgba(252, 211, 77); | <Color color="rgba(252, 211, 77)"></Color> |
+| .bg-yellow-400 | background-color: rgba(251, 191, 36); | <Color color="rgba(251, 191, 36)"></Color> |
+| .bg-yellow-500 | background-color: rgba(245, 158, 11); | <Color color="rgba(245, 158, 11)"></Color> |
+| .bg-yellow-600 | background-color: rgba(217, 119, 6); | <Color color="rgba(217, 119, 6)"></Color> |
+| .bg-yellow-700 | background-color: rgba(180, 83, 9); | <Color color="rgba(180, 83, 9)"></Color> |
+| .bg-yellow-800 | background-color: rgba(146, 64, 14); | <Color color="rgba(146, 64, 14)"></Color> |
+| .bg-yellow-900 | background-color: rgba(120, 53, 15); | <Color color="rgba(120, 53, 15)"></Color> |
+| .bg-green-50 | background-color: rgba(236, 253, 245); | <Color color="rgba(236, 253, 245)"></Color> |
+| .bg-green-100 | background-color: rgba(209, 250, 229); | <Color color="rgba(209, 250, 229)"></Color> |
+| .bg-green-200 | background-color: rgba(167, 243, 208); | <Color color="rgba(167, 243, 208)"></Color> |
+| .bg-green-300 | background-color: rgba(110, 231, 183); | <Color color="rgba(110, 231, 183)"></Color> |
+| .bg-green-400 | background-color: rgba(52, 211, 153); | <Color color="rgba(52, 211, 153)"></Color> |
+| .bg-green-500 | background-color: rgba(16, 185, 129); | <Color color="rgba(16, 185, 129)"></Color> |
+| .bg-green-600 | background-color: rgba(16, 185, 129); | <Color color="rgba(16, 185, 129)"></Color> |
+| .bg-green-700 | background-color: rgba(4, 120, 87); | <Color color="rgba(4, 120, 87)"></Color> |
+| .bg-green-800 | background-color: rgba(6, 95, 70); | <Color color="rgba(6, 95, 70)"></Color> |
+| .bg-green-900 | background-color: rgba(6, 78, 59); | <Color color="rgba(6, 78, 59)"></Color> |
+| .bg-blue-50 | background-color: rgba(239, 246, 255); | <Color color="rgba(239, 246, 255)"></Color> |
+| .bg-blue-100 | background-color: rgba(219, 234, 254); | <Color color="rgba(219, 234, 254)"></Color> |
+| .bg-blue-200 | background-color: rgba(191, 219, 254); | <Color color="rgba(191, 219, 254)"></Color> |
+| .bg-blue-300 | background-color: rgba(147, 197, 253); | <Color color="rgba(147, 197, 253)"></Color> |
+| .bg-blue-400 | background-color: rgba(96, 165, 250); | <Color color="rgba(96, 165, 250)"></Color> |
+| .bg-blue-500 | background-color: rgba(59, 130, 246); | <Color color="rgba(59, 130, 246)"></Color> |
+| .bg-blue-600 | background-color: rgba(37, 99, 235); | <Color color="rgba(37, 99, 235)"></Color> |
+| .bg-blue-700 | background-color: rgba(29, 78, 216); | <Color color="rgba(29, 78, 216)"></Color> |
+| .bg-blue-800 | background-color: rgba(30, 64, 175); | <Color color="rgba(30, 64, 175)"></Color> |
+| .bg-blue-900 | background-color: rgba(30, 58, 138); | <Color color="rgba(30, 58, 138)"></Color> |
+| .bg-indigo-50 | background-color: rgba(238, 242, 255); | <Color color="rgba(238, 242, 255)"></Color> |
+| .bg-indigo-100 | background-color: rgba(224, 231, 255); | <Color color="rgba(224, 231, 255)"></Color> |
+| .bg-indigo-200 | background-color: rgba(199, 210, 254); | <Color color="rgba(199, 210, 254)"></Color> |
+| .bg-indigo-300 | background-color: rgba(165, 180, 252); | <Color color="rgba(165, 180, 252)"></Color> |
+| .bg-indigo-400 | background-color: rgba(129, 140, 248); | <Color color="rgba(129, 140, 248)"></Color> |
+| .bg-indigo-500 | background-color: rgba(99, 102, 241); | <Color color="rgba(99, 102, 241)"></Color> |
+| .bg-indigo-600 | background-color: rgba(79, 70, 229); | <Color color="rgba(79, 70, 229)"></Color> |
+| .bg-indigo-700 | background-color: rgba(67, 56, 202); | <Color color="rgba(67, 56, 202)"></Color> |
+| .bg-indigo-800 | background-color: rgba(55, 48, 163); | <Color color="rgba(55, 48, 163)"></Color> |
+| .bg-indigo-900 | background-color: rgba(49, 46, 129); | <Color color="rgba(49, 46, 129)"></Color> |
+| .bg-purple-50 | background-color: rgba(245, 243, 255); | <Color color="rgba(245, 243, 255)"></Color> |
+| .bg-purple-100 | background-color: rgba(237, 233, 254); | <Color color="rgba(237, 233, 254)"></Color> |
+| .bg-purple-200 | background-color: rgba(221, 214, 254); | <Color color="rgba(221, 214, 254)"></Color> |
+| .bg-purple-300 | background-color: rgba(196, 181, 253); | <Color color="rgba(196, 181, 253)"></Color> |
+| .bg-purple-400 | background-color: rgba(167, 139, 250); | <Color color="rgba(167, 139, 250)"></Color> |
+| .bg-purple-500 | background-color: rgba(139, 92, 246); | <Color color="rgba(139, 92, 246)"></Color> |
+| .bg-purple-600 | background-color: rgba(124, 58, 237); | <Color color="rgba(124, 58, 237)"></Color> |
+| .bg-purple-700 | background-color: rgba(109, 40, 217); | <Color color="rgba(109, 40, 217)"></Color> |
+| .bg-purple-800 | background-color: rgba(91, 33, 182); | <Color color="rgba(91, 33, 182)"></Color> |
+| .bg-purple-900 | background-color: rgba(76, 29, 149); | <Color color="rgba(76, 29, 149)"></Color> |
+| .bg-pink-50 | background-color: rgba(253, 242, 248); | <Color color="rgba(253, 242, 248)"></Color> |
+| .bg-pink-100 | background-color: rgba(252, 231, 243); | <Color color="rgba(252, 231, 243)"></Color> |
+| .bg-pink-200 | background-color: rgba(251, 207, 232); | <Color color="rgba(251, 207, 232)"></Color> |
+| .bg-pink-300 | background-color: rgba(249, 168, 212); | <Color color="rgba(249, 168, 212)"></Color> |
+| .bg-pink-400 | background-color: rgba(244, 114, 182); | <Color color="rgba(244, 114, 182)"></Color> |
+| .bg-pink-500 | background-color: rgba(236, 72, 153); | <Color color="rgba(236, 72, 153)"></Color> |
+| .bg-pink-600 | background-color: rgba(219, 39, 119); | <Color color="rgba(219, 39, 119)"></Color> |
+| .bg-pink-700 | background-color: rgba(190, 24, 93); | <Color color="rgba(190, 24, 93)"></Color> |
+| .bg-pink-800 | background-color: rgba(157, 23, 77); | <Color color="rgba(157, 23, 77)"></Color> |
+| .bg-pink-900 | background-color: rgba(131, 24, 67); | <Color color="rgba(131, 24, 67)"></Color> |
+
+```html
+  <view class="bg-blue-500 ..."></view>
+```
