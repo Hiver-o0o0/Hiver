@@ -81,5 +81,5 @@ npm run weex:dev                        // 启动开发环境，启动 weex 一�
 npm run postcss                         // 将tailwind.config的配置生成对应的css代码
 npm run gulp                            // 执行脚本 在对应目录下生成global.css
 npm run eslint                          // 对项目进行格式校验
-npm run eslintfix                       // 对项目进行格式修复
+npm run eslintfix                       // 对项目进行格式修复 
 ```
