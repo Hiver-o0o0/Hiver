@@ -9,7 +9,7 @@
   "scripts": {
     "dev": "yarn serve",
     "serve": "vuepress dev src",
-    "build": "vuepress build src",
+    "build": "vuepress build src && rm -rf docs && cp -r src/.vuepress/dist docs",
     "postinstall": "patch-package"
   },
   "dependencies": {
