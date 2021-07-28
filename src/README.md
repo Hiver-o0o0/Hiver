@@ -74,10 +74,10 @@ cml项目命令行
 ```sh
 package.json --> scripts
 
-npm run dev                             // 启动开发环境，同时启动 web、wx、weex 三端
-npm run web:dev                         // 启动开发环境，启动 web 一端
-npm run wx:dev                          // 启动开发环境，启动 wx 一端
-npm run weex:dev                        // 启动开发环境，启动 weex 一端
+npm run dev 或者 cml dev                 // 启动开发环境，同时启动 web、wx、weex 三端
+npm run web:dev 或者 cml web dev         // 启动开发环境，启动 web 一端
+npm run wx:dev 或者 cml wx dev           // 启动开发环境，启动 wx 一端
+npm run weex:dev 或者 cml weex dev       // 启动开发环境，启动 weex 一端
 npm run postcss                         // 将tailwind.config的配置生成对应的css代码
 npm run gulp                            // 执行脚本 在对应目录下生成global.css
 npm run eslint                          // 对项目进行格式校验

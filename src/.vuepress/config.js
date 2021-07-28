@@ -13,7 +13,11 @@ module.exports = {
         ariaLabel: '文档菜单',
         items: [
           {
-            text: 'tailwindcss',
+            text: '移动端开发文档',
+            link: '/development/'
+          },
+          {
+            text: 'css文档',
             link: '/css/'
           }
         ]
@@ -146,6 +150,17 @@ module.exports = {
           ]
         },
       ],
+      '/development/': [
+
+        {
+          title: '',
+          collapsable: false,
+          children: [
+            '',
+          ]
+        }
+
+      ]
     },
     smoothScroll: false
   }
