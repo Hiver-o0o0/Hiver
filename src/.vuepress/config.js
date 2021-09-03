@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/Hiver/',
   title: '为帮前端',
   description: '为帮前端开发文档',
   head: [
