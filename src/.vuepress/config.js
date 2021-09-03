@@ -1,5 +1,4 @@
 module.exports = {
-  base: '/Hiver/',
   title: '为帮前端',
   description: '为帮前端开发文档',
   head: [
@@ -21,6 +20,10 @@ module.exports = {
             link: '/css/'
           }
         ]
+      },
+      {
+        text: 'JavaScript',
+        link: '/JavaScript/'
       },
       {
         text: 'chameleon',
@@ -159,7 +162,16 @@ module.exports = {
             '',
           ]
         }
-
+      ],
+      '/JavaScript/': [
+        {
+          title: '',
+          collapsable: false,
+          children: [
+            '/JavaScript/',
+            '/JavaScript/语言基础',
+          ]
+        },
       ]
     },
     smoothScroll: false
